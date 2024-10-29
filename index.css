@@ -1,5 +1,9 @@
-body {
-  background-color: lightblue;
+* {
+  background-color: blue;
+}
+
+img {
+  height: 300px;
 }
 
 h1 {
