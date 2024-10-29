@@ -1,0 +1,23 @@
+body {
+  max-width: 500px;
+  background-color:whitesmoke;
+}
+
+.navbar {
+  position: fixed;
+  width: 100%; 
+  top: 0;
+  z-index: 3;
+  background-color: mediumspringgreen;
+  left: -20px;
+  padding: 20px; 
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 0 20px;
+}
+
+main {
+  padding-top: 50px;
+}
